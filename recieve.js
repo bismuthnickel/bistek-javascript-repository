@@ -1,5 +1,5 @@
 bjrPackages.forEach(element => {
-    fetch("https://cdn.jsdelivr.net/gh/bistek-studios/bistek-javascript-respository/packages.json")
+    fetch("https://cdn.jsdelivr.net/gh/bistek-studios/bistek-javascript-repository/packages.json")
     .then(response => response.json())
     .then(jsonResponse => {
         const packageScriptTag=document.createElement("script");

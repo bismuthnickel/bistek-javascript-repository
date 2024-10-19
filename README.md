@@ -7,7 +7,7 @@ simple, just include this code in your html file
 <script>
 const bjrPackages = ["package1","package2"]
 </script>
-<script src="https://cdn.jsdelivr.net/gh/bistek-studios/bistek-javascript-respository/recieve.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/bistek-studios/bistek-javascript-repository/recieve.js"></script>
 ```
 
 ## how do i upload my packages
