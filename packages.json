@@ -4,6 +4,7 @@
         1
     ],
     "fancyhelloworld": [
-        "console.log(\"%chello world\", \"color: #FF00FF; font-size: 15px; -webkit-text-stroke: 1px black; font-weight:bold\");"
+        "console.log(\"%chello\", \"color: #FF00FF; font-size: 15px; -webkit-text-stroke: 1px black; font-weight:bold\");",
+        0
     ]
 }
