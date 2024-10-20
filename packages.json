@@ -1,0 +1,9 @@
+{
+    "qspp": [
+        "https://cdn.jsdelivr.net/gh/bistek-studios/querySelectorPlusPlus/qspp.js",
+        1
+    ],
+    "fancyhelloworld": [
+        "console.log(\"%chello world\", \"color: #FF00FF; font-size: 15px; -webkit-text-stroke: 1px black; font-weight:bold\");"
+    ]
+}
